@@ -2,3 +2,12 @@
     font-size: 35px;
     color: #BF5700;
 }
+.hero {
+    background-image: url(images/utskyline.jpg);
+    /*background-color: salmon;*/
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    height: 100vh;
+    overflow: hidden;
+}
