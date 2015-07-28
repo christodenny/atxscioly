@@ -2,12 +2,20 @@
     font-size: 35px;
     color: #BF5700;
 }
+
+.navbar-collapse .nav {
+    font-size: 20px;
+}
+
 .hero {
-    background-image: url(images/utskyline.jpg);
-    /*background-color: salmon;*/
-    background-position: center;
-    background-size: cover;
-    color: #fff;
-    height: 100vh;
-    overflow: hidden;
+    background-image: url('../images/utskyline.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 50% 30%;
+    /*height: 900px;*/
+    width: inherit;
+}
+
+.jumbotron {
+   background: rgba(200, 200, 200, .6); 
 }
