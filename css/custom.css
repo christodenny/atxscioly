@@ -8,14 +8,15 @@
 }
 
 .hero {
-    background-image: url('../images/utskyline.jpg');
+    background-image: url('../images/uttower.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: 50% 30%;
-    /*height: 900px;*/
+    min-height: 400px;
+    height: 600px;
     width: inherit;
 }
 
 .jumbotron {
-   background: rgba(200, 200, 200, .6); 
+   background: rgba(220, 220, 220, .8); 
 }
