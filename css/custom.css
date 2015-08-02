@@ -1,26 +1,41 @@
+.navbar {
+    background-color: white;
+}
 .navbar-header .navbar-brand {
     font-size: 35px;
     color: #BF5700;
 }
-
 .navbar-collapse .nav {
-    font-size: 20px;
+    font-size: 16px;
+    color: white;
 }
-
 .hero {
     background-image: url('../images/uttower.jpg');
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50% 30%;
+    background-position: 50% 20%;
     min-height: 400px;
     height: 600px;
     width: inherit;
 }
-
 .jumbotron {
-   background: rgba(220, 220, 220, .8); 
+    background: rgba(220, 220, 220, .8);
 }
-
 .links {
     background-color: lightgray;
+}
+.copyrights {
+    text-align: center;
+}
+.links p {
+    text-align: center;
+}
+.link {
+    /*background-color: #B2FFFF;*/
+    padding: 15px;
+    margin: 10px;
+}
+.linkimg {
+    width: 180px;
+    height: 180px;
 }
