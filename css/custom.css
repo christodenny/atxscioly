@@ -35,7 +35,8 @@
     padding: 15px;
     margin: 10px;
 }
-.linkimg {
-    width: 180px;
-    height: 180px;
+
+.ss-form {
+    text-align: center;
+    background-color: lightgray;
 }
